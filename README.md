@@ -1,10 +1,14 @@
 # Java-Swing-Custom-Dial-Component
 A custom Dial component to use in your Swing applications.
+
 <br>
 <br>
-<br>
+
 ![Example](https://github.com/Clowo/Java-Swing-Custom-Dial-Component/blob/master/example.png)
+
 <br>
+<br>
+
 | Method | Type | Description |
 | --- | --- | --- |
 | JDial() | super | Creates new instance of JDial object. |
