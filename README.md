@@ -1,7 +1,9 @@
 # Java-Swing-Custom-Dial-Component
 A custom Dial component to use in your Swing applications.
 <br>
-![alt text](https://github.com/Clowo/Java-Swing-Custom-Dial-Component/blob/master/example.png)
+<br>
+<br>
+![Example](https://github.com/Clowo/Java-Swing-Custom-Dial-Component/blob/master/example.png)
 <br>
 | Method | Type | Description |
 | --- | --- | --- |
