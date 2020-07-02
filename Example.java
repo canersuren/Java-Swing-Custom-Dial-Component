@@ -1,11 +1,9 @@
-package CustomComponent;
-
 import java.awt.Color;
 import javax.swing.JFrame;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-public class Main {
+public class Example {
      public static void main(String[] args) {
         JFrame frame = new JFrame("Custom Component");
 
