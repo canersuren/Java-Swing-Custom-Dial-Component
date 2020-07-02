@@ -2,7 +2,7 @@
 A custom Dial component to use in your Swing applications.
 <br>
 <br>
-![Example](https://github.com/Clowo/Java-Swing-Custom-Dial-Component/blob/master/example.png)
+![Example](https://github.com/Clowo/Java-Swing-Custom-Dial-Component/blob/master/example.gif)
 <br>
 <br>
 | Method | Type | Description |
